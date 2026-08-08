@@ -11,7 +11,7 @@ const translations = {
         "menu-contacts": "Контакты",
         
         // Hero
-        "hero-tag": "Официальный дилер в Самарканде",
+        "hero-tag": "Официальный дилер в Самарканде, Узбекистан",
         "hero-title": "Инновации в движении с <span class='text-glow'>JAC MOTORS</span>",
         "hero-desc": "Премиальные кроссоверы, надежные пикапы и коммерческая техника JAC напрямую с гарантией от производителя. Подберите идеальный автомобиль для жизни и бизнеса.",
         "hero-btn-select": "Выбрать модель",
@@ -102,7 +102,7 @@ const translations = {
         "showroom-stat-label": "Официальный дилер",
         "about-tag": "О компании",
         "about-title": "Автосалон <br><span class='text-glow'>Samarqand Jac Motors</span>",
-        "about-desc": "Добро пожаловать в современный дилерский центр JAC в Самаркандской области. Наш автосалон предлагает полный спектр услуг по продаже и техническому обслуживанию всей линейки автомобилей JAC Motors.",
+        "about-desc": "Добро пожаловать в современный дилерский центр JAC в Самаркандской области, Узбекистан. Наш автосалон предлагает полный спектр услуг по продаже и техническому обслуживанию всей линейки автомобилей JAC Motors.",
         "adv-1-title": "Тест-драйв на месте:",
         "adv-1-desc": "Вы можете лично оценить ходовые качества и комфорт любой интересующей вас модели.",
         "adv-2-title": "Выгодный трейд-ин:",
@@ -114,7 +114,7 @@ const translations = {
         "contacts-tag": "Обратная связь",
         "contacts-title": "Связаться с <span class='text-glow'>Нами</span>",
         "info-address-title": "Наш адрес",
-        "info-address-ru": "Самаркандская область, Самаркандский район, Andijoniy MFY, автодорога Самарканд-Бухара, 55-дом",
+        "info-address-ru": "Самаркандская область, Самаркандский район, Andijoniy MFY, автодорога Самарканд-Бухара, 55-дом, Узбекистан",
         "info-phone-title": "Колл-центр",
         "info-working-hours": "Режим работы: Ежедневно с 9:00 до 20:00",
         "info-instagram-desc": "Подписывайтесь, чтобы следить за скидками и новостями",
@@ -134,7 +134,7 @@ const translations = {
         "footer-copy": "© 2026 Samarqand Jac Motors. Все права защищены. Официальный дилер JAC Motors в Узбекистане.",
         "footer-nav-title": "Навигация",
         "footer-contacts-title": "Контакты",
-        "footer-addr": "Самарканд-Бухара шоссе, 55-дом",
+        "footer-addr": "Самарканд-Бухара шоссе, 55-дом, Узбекистан",
         
         // Modals
         "lead-title": "Заявка на автокредит",
@@ -155,7 +155,7 @@ const translations = {
         "menu-contacts": "Kontaktlar",
         
         // Hero
-        "hero-tag": "Samarqanddagi rasmiy diler",
+        "hero-tag": "Samarqanddagi (O'zbekiston) rasmiy diler",
         "hero-title": "Harakatdagi innovatsiyalar <span class='text-glow'>JAC MOTORS</span> bilan",
         "hero-desc": "Ishlab chiqaruvchining rasmiy kafolatiga ega premium krossoverlar, ishonchli pikaplar va JAC tijorat texnikalari. Hayot va biznes uchun eng mos keladigan avtomobilni tanlang.",
         "hero-btn-select": "Modelni tanlash",
@@ -258,7 +258,7 @@ const translations = {
         "contacts-tag": "Qayta aloqa",
         "contacts-title": "Biz bilan <span class='text-glow'>bog'laning</span>",
         "info-address-title": "Manzilimiz",
-        "info-address-ru": "Samarqand viloyati, Samarqand tumani, Andijoniy MFY, Samarqand-Buxoro shossesi, 55-uy",
+        "info-address-ru": "Samarqand viloyati, Samarqand tumani, Andijoniy MFY, Samarqand-Buxoro shossesi, 55-uy, O'zbekiston",
         "info-phone-title": "Koll-markaz",
         "info-working-hours": "Ish tartibi: Har kuni soat 9:00 dan 20:00 gacha",
         "info-instagram-desc": "Chegirmalar va yangiliklarni kuzatib borish uchun obuna bo'ling",
@@ -278,7 +278,7 @@ const translations = {
         "footer-copy": "© 2026 Samarqand Jac Motors. Barcha huquqlar himoyalangan. O'zbekistondagi JAC Motors rasmiy dileri.",
         "footer-nav-title": "Navigatsiya",
         "footer-contacts-title": "Kontaktlar",
-        "footer-addr": "Samarqand-Buxoro shossesi, 55-uy",
+        "footer-addr": "Samarqand-Buxoro shossesi, 55-uy, O'zbekiston",
         
         // Modals
         "lead-title": "Avtokreditga ariza berish",
