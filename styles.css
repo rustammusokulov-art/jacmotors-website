@@ -1760,3 +1760,110 @@ section {
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+.model-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.model-link:hover {
+    color: var(--color-primary);
+}
+
+/* ==========================================================================
+   Model Detail Pages (/models/*.html)
+   ========================================================================== */
+.breadcrumb-nav {
+    padding: calc(var(--header-height) + 24px) 20px 12px;
+    font-size: 14px;
+    color: var(--color-text-muted);
+}
+
+.breadcrumb-nav a {
+    color: var(--color-text-muted);
+    text-decoration: none;
+}
+
+.breadcrumb-nav a:hover {
+    color: var(--color-primary);
+}
+
+.breadcrumb-nav span {
+    margin: 0 6px;
+}
+
+.model-detail-hero {
+    padding: 20px 0 60px;
+}
+
+.model-detail-hero-inner {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    align-items: center;
+}
+
+.model-detail-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    border: 1px solid var(--color-border);
+}
+
+.model-detail-info h1 {
+    font-family: var(--font-heading);
+    font-size: 40px;
+    font-weight: 800;
+    margin: 14px 0 8px;
+    line-height: 1.15;
+}
+
+.model-detail-type {
+    color: var(--color-primary);
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.model-detail-desc {
+    color: var(--color-text-muted);
+    margin-bottom: 20px;
+}
+
+.model-detail-info .model-price {
+    margin-bottom: 24px;
+}
+
+.model-specs-section {
+    padding: 40px 0 60px;
+    border-top: 1px solid var(--color-border);
+}
+
+.model-specs-section .section-title {
+    margin-bottom: 24px;
+}
+
+.model-specs-section .spec-table {
+    max-width: 700px;
+}
+
+.model-back-section {
+    padding: 20px 0 80px;
+    display: flex;
+    gap: 16px;
+}
+
+.model-back-section .container {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+    .model-detail-hero-inner {
+        grid-template-columns: 1fr;
+    }
+
+    .model-detail-info h1 {
+        font-size: 28px;
+    }
+}
