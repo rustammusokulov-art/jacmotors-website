@@ -1,5 +1,26 @@
+# Robots.txt for https://jacmotors-samarkand.uz/
 User-agent: *
 Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /*?*sort=
 
+# AI Crawlers & LLM Agents (Explicitly allowed for AI GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Sitemap Index
 Sitemap: https://jacmotors-samarkand.uz/sitemap.xml
 Host: jacmotors-samarkand.uz

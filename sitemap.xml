@@ -1,123 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://jacmotors-samarkand.uz/</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/uz/</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/models/js8-pro.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/models/t9.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/models/t8.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/models/m3-plus.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/models/m3-van.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/models/m4-plus.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/models/rf8.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/models/sunray.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/models/sunray-van.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/uz/models/js8-pro.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/uz/models/t9.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/uz/models/t8.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/uz/models/m3-plus.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/uz/models/m3-van.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/uz/models/m4-plus.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/uz/models/rf8.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/uz/models/sunray.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://jacmotors-samarkand.uz/uz/models/sunray-van.html</loc>
-        <lastmod>2026-10-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Bosh sahifa (Main Homepage) -->
+  <url>
+    <loc>https://jacmotors-samarkand.uz/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://jacmotors-samarkand.uz/images/showroom.png</image:loc>
+      <image:title>Samarqand Jac Motors автосалон</image:title>
+    </image:image>
+  </url>
+
+  <!-- JAC JS8 PRO -->
+  <url>
+    <loc>https://jacmotors-samarkand.uz/models/js8-pro.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://jacmotors-samarkand.uz/images/js8.jpg</image:loc>
+      <image:title>JAC JS8 PRO в Самарканде</image:title>
+    </image:image>
+  </url>
+
+  <!-- JAC T9 -->
+  <url>
+    <loc>https://jacmotors-samarkand.uz/models/t9.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://jacmotors-samarkand.uz/images/jac_t9.jpg</image:loc>
+      <image:title>JAC T9 пикап 4х4 Самарканд</image:title>
+    </image:image>
+  </url>
+
+  <!-- JAC T8 -->
+  <url>
+    <loc>https://jacmotors-samarkand.uz/models/t8.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://jacmotors-samarkand.uz/images/jac_t8.jpg</image:loc>
+      <image:title>JAC T8 рамный пикап Самарканд</image:title>
+    </image:image>
+  </url>
+
+  <!-- JAC M3 PLUS -->
+  <url>
+    <loc>https://jacmotors-samarkand.uz/models/m3-plus.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://jacmotors-samarkand.uz/images/m3_front_11.jpg</image:loc>
+      <image:title>JAC M3 PLUS минивэн 9 мест</image:title>
+    </image:image>
+  </url>
+
+  <!-- JAC M3 VAN -->
+  <url>
+    <loc>https://jacmotors-samarkand.uz/models/m3-van.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://jacmotors-samarkand.uz/images/m3_van_front_9.jpg</image:loc>
+      <image:title>JAC M3 VAN грузовой фургон Самарканд</image:title>
+    </image:image>
+  </url>
+
+  <!-- JAC M4 PLUS -->
+  <url>
+    <loc>https://jacmotors-samarkand.uz/models/m4-plus.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://jacmotors-samarkand.uz/images/m4_front_2.jpg</image:loc>
+      <image:title>JAC M4 PLUS минивэн 11 мест</image:title>
+    </image:image>
+  </url>
+
+  <!-- JAC RF8 -->
+  <url>
+    <loc>https://jacmotors-samarkand.uz/models/rf8.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://jacmotors-samarkand.uz/images/rf8_8.jpg</image:loc>
+      <image:title>JAC Refine RF8 VIP минивэн Самарканд</image:title>
+    </image:image>
+  </url>
+
+  <!-- JAC SUNRAY -->
+  <url>
+    <loc>https://jacmotors-samarkand.uz/models/sunray.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://jacmotors-samarkand.uz/images/sunray_front_2.jpg</image:loc>
+      <image:title>JAC SUNRAY микроавтобус 16 мест</image:title>
+    </image:image>
+  </url>
+
+  <!-- JAC SUNRAY VAN -->
+  <url>
+    <loc>https://jacmotors-samarkand.uz/models/sunray-van.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://jacmotors-samarkand.uz/images/sunray_van_front_9.jpg</image:loc>
+      <image:title>JAC SUNRAY VAN грузовой фургон</image:title>
+    </image:image>
+  </url>
+
 </urlset>
