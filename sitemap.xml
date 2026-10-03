@@ -1,97 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://jacmotors-sam.netlify.app/</loc>
+        <loc>https://jacmotors-samarkand.uz/</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/models/js8-pro.html</loc>
+        <loc>https://jacmotors-samarkand.uz/uz/</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://jacmotors-samarkand.uz/models/js8-pro.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/models/t9.html</loc>
+        <loc>https://jacmotors-samarkand.uz/models/t9.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/models/t8.html</loc>
+        <loc>https://jacmotors-samarkand.uz/models/t8.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/models/m3-plus.html</loc>
+        <loc>https://jacmotors-samarkand.uz/models/m3-plus.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/models/m3-van.html</loc>
+        <loc>https://jacmotors-samarkand.uz/models/m3-van.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/models/m4-plus.html</loc>
+        <loc>https://jacmotors-samarkand.uz/models/m4-plus.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/models/rf8.html</loc>
+        <loc>https://jacmotors-samarkand.uz/models/rf8.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/models/sunray.html</loc>
+        <loc>https://jacmotors-samarkand.uz/models/sunray.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/models/sunray-van.html</loc>
+        <loc>https://jacmotors-samarkand.uz/models/sunray-van.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/uz/models/js8-pro.html</loc>
+        <loc>https://jacmotors-samarkand.uz/uz/models/js8-pro.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/uz/models/t9.html</loc>
+        <loc>https://jacmotors-samarkand.uz/uz/models/t9.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/uz/models/t8.html</loc>
+        <loc>https://jacmotors-samarkand.uz/uz/models/t8.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/uz/models/m3-plus.html</loc>
+        <loc>https://jacmotors-samarkand.uz/uz/models/m3-plus.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/uz/models/m3-van.html</loc>
+        <loc>https://jacmotors-samarkand.uz/uz/models/m3-van.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/uz/models/m4-plus.html</loc>
+        <loc>https://jacmotors-samarkand.uz/uz/models/m4-plus.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/uz/models/rf8.html</loc>
+        <loc>https://jacmotors-samarkand.uz/uz/models/rf8.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/uz/models/sunray.html</loc>
+        <loc>https://jacmotors-samarkand.uz/uz/models/sunray.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://jacmotors-sam.netlify.app/uz/models/sunray-van.html</loc>
+        <loc>https://jacmotors-samarkand.uz/uz/models/sunray-van.html</loc>
+        <lastmod>2026-10-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>

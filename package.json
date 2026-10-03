@@ -1,0 +1,10 @@
+{
+  "name": "samarqand-jac-motors-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/seo-check.mjs",
+    "check:seo": "node scripts/seo-check.mjs"
+  }
+}

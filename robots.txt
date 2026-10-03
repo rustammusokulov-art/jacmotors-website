@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jacmotors-sam.netlify.app/sitemap.xml
+Sitemap: https://jacmotors-samarkand.uz/sitemap.xml
+Host: jacmotors-samarkand.uz
